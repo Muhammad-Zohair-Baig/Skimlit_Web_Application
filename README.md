@@ -6,7 +6,7 @@
     <h1>Skimlit Project</h1>
     <p>This project was developed using the following technologies:</p>
     <ul>
-      <li>Frontend: Node.js</li>
+      <li>Frontend: REACT, Material UI</li>
       <li>Server: Flask</li>
       <li>Model Integration: Flask server</li>
     </ul>
